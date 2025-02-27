@@ -8,12 +8,6 @@
   <a href="http://www.linkedin.com/in/jo%C3%A3o-victor-33b0b0208">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=joaovicto2077@gmail.com&su=Contato%20Curr%C3%ADculo&body=Olá,%20estou%20interessado%20em%20mais%20informações%20sobre%20seu%20perfil.">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/5588999032878">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
   <!--
   <a href="https://www.seusite.com/curriculo">
     <img src="https://img.shields.io/badge/Currículo-FF5733?style=for-the-badge&logo=file&logoColor=white"/>
