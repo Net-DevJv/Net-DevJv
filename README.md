@@ -19,9 +19,10 @@
 
 ## 📊 **GitHub Stats & Tecnologias usadas**
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaovictor-devcode&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Net-DevJv&theme=radical"/>
+  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Net-DevJv&theme=radical"/>
   <br>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor-devcode&hide_progress=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Net-DevJv&theme=radical&hide_progress=false" />
 </p>
 
 ---
