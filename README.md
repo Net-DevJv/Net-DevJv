@@ -20,9 +20,9 @@
 ## 📊 **GitHub Stats & Tecnologias usadas**
 <p align="center">
   <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Net-DevJv&theme=radical"/>
-  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Net-DevJv&theme=radical"/>
-  <br>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Net-DevJv&theme=radical&hide_progress=false" />
+  <br>
+  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Net-DevJv&theme=radical"/>
 </p>
 
 ---
