@@ -40,3 +40,11 @@
   <img src="https://img.shields.io/badge/APIs-0088CC?style=for-the-badge&logo=api&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microservices-1E1E2E?style=for-the-badge&logo=cloud&logoColor=white"/>
 </p>
+
+---
+
+## 🎓 Certificados e Cursos
+
+### ASP.NET Core MVC - Criando um Site do Zero (NET 6)
+- **Plataforma:** Udemy  
+- **Link do Certificado:** [Acesse aqui](http://ude.my/UC-00e3ef77-6e2d-405d-aa81-2e527b55c0a9)
